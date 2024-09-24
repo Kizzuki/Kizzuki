@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying Computer Science at the **Mauá Institute of Technology (MIT)** 
  
- 🌱 I’m currently learning **React Native, Expo, API**
+ 🌱 I’m currently learning **Dart, R, Flutter**
 
  </div>
  
@@ -31,7 +31,7 @@
 <h2 align="center">💻 Languages 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,python,javascript,typescript,dart,flutter,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=r,python,javascript,typescript,java,react,dart,flutter,mysql" /><br>
     
 </div>
 <h2 align="center">📚 Frameworks 📚</h2>
