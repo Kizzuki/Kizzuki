@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kizzuki.Kizzuki" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=3299CC&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Arevolo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=3299CC&duration=4000&lines=Hi+There!+👋🏻;+I'm+Thiago+Arevolo!;" />
 </h1>
 
 <h3 align="center">A developer from Brazil ᴮᴿ </h3>
@@ -10,14 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently studying Computer Science at the **Mauá Institute of Technology (MIT)** 
+ 🧑🏻‍💻 I’m currently studying Computer Science at the **Mauá Institute of Technology (MIT)** 
  
- 🌱 I’m currently learning **Dart, R, Flutter**
+ 💡 I’m currently learning **Dart, R, Flutter**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:luccaassoc@gmail.com">
+  <a href="mailto:arevolo.thiago@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     
