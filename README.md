@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning **React Native, Expo, API**
 
-⚡ Fun fact **I play several instruments!**
-
  </div>
  
 <div align="center"> 
