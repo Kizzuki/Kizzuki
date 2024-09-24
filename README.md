@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🧑🏻‍💻 I’m currently studying Computer Science at the **Mauá Institute of Technology (MIT)** 
+ 🧑🏻‍💻 I’m currently studying Computer Science at the **Mauá Institute of Technology (IMT)** 
  
  💡 I’m currently learning **Dart, R, Flutter**
 
