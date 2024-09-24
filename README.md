@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kizzuki.Kizzuki" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=ff00c3&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Arevolo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=3299CC&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Arevolo!;" />
 </h1>
 
 <h3 align="center">A developer from Brazil ᴮᴿ </h3>
