@@ -28,13 +28,13 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages ⚒️</h2>
+<h2 align="center">💻 Languages 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python,javascript,typescript,dart,flutter,mysql" /><br>
     
 </div>
-<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<h2 align="center">📚 Frameworks 📚</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,discord" /><br>
@@ -56,7 +56,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kizzuki/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kizzuki/Kizzuki/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -73,5 +73,9 @@
 </div>
 
 <br/><br/>
+<!--![Snake animation](https://github.com/Kizzuki/Kizzuki/blob/output/github-contribution-grid-snake.svg)-->
+
+<!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-design--> 
+<!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file-->
 
 <hr/>
